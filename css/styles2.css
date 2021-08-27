@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Parisienne';
+    src: url("../fonts/Parisienne-Regular.ttf");
+}
+.titulopag{
+    font-size: 90px;
+    border: slategray;
+    color: black;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: 'Parisienne', cursive;
+}
+.centrar{
+    margin: 0 auto;
+}
